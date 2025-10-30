@@ -2,6 +2,25 @@
 
 This template is designed to provide an overview of the different steps of the project, how to structure your repository, and expectations for each component.
 
+The project will be completed in two stages:
+
+1) Introduction and Data Exploration
+2) Analysis, Results and Discussion
+
+In Part 1), you will be:
+
+    - Determining what question you want to answer
+    - Identifying your dataset
+    - Look for existing literature/projects about this question
+    - Producing at least one figure from your data that can be used towards answering your question
+    - Pointing out and addressing any concerns about your data's ability to answer the question (data wrangling)
+
+In Part 2) you will be:
+
+    - Carrying out your full statistical analysis regarding your hypothesis
+    - Examining your results
+    - Discuss future extensions, gaps in your analysis
+
 ---
 
 ## What to Do
