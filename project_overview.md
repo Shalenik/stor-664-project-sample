@@ -53,7 +53,7 @@ Please prepare your report as a two different documents; at each deadline you wi
 ## Grading 
 
 The project will count for 25% of your final grade in the class.
-It is worth 25 points: Introduction and Data Exploration will be worth 10 points, Analysis, Results, and Discussion will be worth 10 points, and the remaining 5 points will be distributed depending on your repository usage and peer-reviewing.
+It is worth 25 points: Introduction and Data Exploration will be worth 10 points, Analysis, Results, and Discussion will be worth 10 points, and the remaining 5 points will be distributed depending on your repository, peer-reviewing, and presentation).
 
 Your report should include in-text citations (and accompanying bibliography) when you rely on external resources (e.g., if your dataset is taken from a published paper, you should cite it), but in general when you rely
 on things you learned in class you do not need to cite the course textbook
