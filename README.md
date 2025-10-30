@@ -4,8 +4,8 @@ This template is designed to provide an overview of the different steps of the p
 
 The project will be completed in two stages:
 
-1) Introduction and Data Exploration
-2) Analysis, Results and Discussion
+1) Introduction and Data Exploration (due 11/18)
+2) Analysis, Results and Discussion (due 12/3)
 
 In Part 1), you will be:
 
