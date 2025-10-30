@@ -153,5 +153,4 @@ Your peer reviewers should be able to clone and run your repository to reproduce
 
 ## Reports
 
-It is highly recommended to render your reports from rmarkdown or quarto. Github will display markdown, PDF, or Jupyter notebooks natively so any of these options can be used in the reports page - however, a PDF will need to be uploaded to Gradescope to recieve a grade for that section.
-
+Any medium can be used to generate the reports (MS Word, Latex, Quarto etc), however the final result will need to be a PDF file that will be placed in the `\reports` folder as well as uploaded on Gradescope.
